@@ -1,6 +1,6 @@
-package ru.sfedu;
+package ru.sfedu.photohaven;
 
-public class Main {
+public class PhotoHavenClient {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
