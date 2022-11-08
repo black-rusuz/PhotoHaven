@@ -5,7 +5,7 @@ import com.opencsv.bean.CsvCustomBindByPosition;
 import org.simpleframework.xml.Attribute;
 import org.simpleframework.xml.ElementList;
 import org.simpleframework.xml.ElementListUnion;
-import ru.sfedu.photohaven.ProductsConverter;
+import ru.sfedu.photohaven.utils.ProductsConverter;
 
 import java.io.Serializable;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ru.sfedu.photohaven;
+package ru.sfedu.photohaven.utils;
 
 import com.opencsv.bean.AbstractBeanField;
 import ru.sfedu.photohaven.model.Product;
